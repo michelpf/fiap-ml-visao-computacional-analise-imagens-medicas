@@ -37,4 +37,4 @@ Este projeto requer **Python 3.5 ou superior** e as seguintes bibliotecas:
 
 ### Dúvidas
 
-Crie uma "Issue" com as perguntas para que as dúvidas sejam compartilhados com todos os alunos. Questionamentos particulares devem ser encaminhados pelo e-mail do professor.
+Crie uma [Issue](https://github.com/michelpf/fiap-ml-visao-computacional-capstone-alternative/issues/new) com as perguntas para que as dúvidas sejam compartilhados com todos os alunos. Questionamentos particulares devem ser encaminhados pelo e-mail do professor.

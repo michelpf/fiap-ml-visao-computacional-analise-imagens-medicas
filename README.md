@@ -54,7 +54,9 @@ projeto/.ipynb_checkpoints
 
 ### 3. Template guiado
 
-Utilize o arquivo Jupyter "projeto-final/e-imagens-medicas.ipynb", siga todas as instruções, completando e construindo os algoritmos necessários.
+Utilize o arquivo Jupyter "projeto-final/analise-imagens-medicas.ipynb", siga todas as instruções, completando e construindo os algoritmos necessários.
+
+> **Atenção: o grupo/aluno que não utilizar este template (ou alterar partes indevidas) será automaticamente reprovado.**
 
 ### 4. Bibliotecas utilizadas
 

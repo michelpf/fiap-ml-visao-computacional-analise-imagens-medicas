@@ -1,6 +1,17 @@
+![](https://img.shields.io/github/repo-size/michelpf/fiap-ml-visao-computacional)
+![](https://img.shields.io/github/issues/michelpf/fiap-ml-visao-computacional)
+![](https://img.shields.io/github/stars/michelpf/fiap-ml-visao-computacional)
+![](https://img.shields.io/github/watchers/michelpf/fiap-ml-visao-computacional)
+![](https://img.shields.io/github/last-commit/michelpf/fiap-ml-visao-computacional)
+
+
 # MBA FIAP Inteligência Artificial & Machine Learning
 
-## Visão Computacional: Análise de Imagens Médicas
+Obtenha mais informações sobre a formação em inteligência artificial e a ementa completa no [portal](https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/) da FIAP.
+
+## Visão Computacional Capstone
+
+### Análise de Imagens Médicas
 
 As tecnologias de imagens médicas estão cada vez mais integradas aos sitemas de visão computacional, incluindo as imagens de raio-x.
 

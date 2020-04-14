@@ -24,17 +24,39 @@ No campo dos diagósticos por raios-x, a pnenumonia é uma das enfermidades onde
 </p>
 
 
-## Instruções
+## 1. Instruções
 
 Nas aulas utilizaremos a distribuição Ananconda, com uso intensivo do Jupyter Notebook, que há vem instalado nesta distribuição.
 
 Para instalar, acesse a sessão de [Downloads](https://www.anaconda.com/download) do Anaconda.
 
-### Template guiado
+
+### 2. Repositório
+
+Recomendamos clonar este repositório.
+
+>**Importante**: como serão desenvolvidos modelos com arquivos grandes, é necessário ter um arquivo ```.gitignore``` com o seguinte conteúdo:
+
+```
+projeto/pesos/*
+!projeto/pesos/.gitkeep 
+
+projeto/modelos/*
+!projeto/modelos/.gitkeep 
+
+projeto/classificadores/*
+!projeto/classificadores/.gitkeep 
+
+projeto/.ipynb_checkpoints
+
+.DS_Store
+````
+
+### 3. Template guiado
 
 Utilize o arquivo Jupyter "projeto-final/e-imagens-medicas.ipynb", siga todas as instruções, completando e construindo os algoritmos necessários.
 
-### Bibliotecas utilizadas
+### 4. Bibliotecas utilizadas
 
 Este projeto requer **Python 3.5 ou superior** e as seguintes bibliotecas:
 
@@ -45,6 +67,19 @@ Este projeto requer **Python 3.5 ou superior** e as seguintes bibliotecas:
 - [Tensorflow](http://tensorflow.org/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
 
+
+### 5. Critérios de avaliação
+
+O projeto será avaliado pelos seguintes itens abaixo. A nota final será uma composição levando em consideração o peso de cada tema.
+
+- Desenvolvimento e tratamento da base de treinamento e validação (n1 _peso 1_)
+- Implementação de modelo transfer learning baseado na implementação ResNet50 (n2 _peso 1,5)
+- Implementação de modelo transfer learning baseado na implementação VGG16 (n3 _peso 1,5_)
+- Implementação de modelo transfer learning baseado na implementação VGG19 (n4 _peso 1,5_)
+- Implementação de modelo transfer learning baseado na implementação de arquitetura de escolha do grupo (arquitetura adicional) (n5 _peso 2_)
+- Conclusões finais (n6 _peso 2,5_)
+
+Nota Final = 2 * n1 + 1,5 * n2 + 1,5 * n3 + 1,5 * n4 + 2 * n5 + 2.5 * n6
 
 ### Dúvidas
 

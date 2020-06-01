@@ -54,7 +54,7 @@ projeto/.ipynb_checkpoints
 
 ### 3. Template guiado
 
-Utilize o arquivo Jupyter "projeto-final/analise-imagens-medicas.ipynb", siga todas as instruções, completando e construindo os algoritmos necessários.
+Utilize o arquivo Jupyter [```projeto-final/analise-imagens-medicas.ipynb```](https://github.com/michelpf/fiap-ml-visao-computacional-capstone-alternative/blob/master/projeto-final/analise-imagens-medicas.ipynb), siga todas as instruções, completando e construindo os algoritmos necessários. Este template foi desenvolvido para ser executado localmente, em uma instalação do Anaconda.
 
 > **Atenção: o grupo/aluno que não utilizar este template (ou alterar partes indevidas) será automaticamente reprovado.**
 

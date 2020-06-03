@@ -56,7 +56,7 @@ projeto/.ipynb_checkpoints
 
 📙 Utilize o arquivo Jupyter [```projeto-final/analise-imagens-medicas.ipynb```](https://github.com/michelpf/fiap-ml-visao-computacional-capstone-alternative/blob/master/projeto-final/analise-imagens-medicas.ipynb), siga todas as instruções, completando e construindo os algoritmos necessários. Este template foi desenvolvido para ser executado localmente, em uma instalação do Anaconda.
 
-📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/michelpf/fiap-ml-visao-computacional-capstone-alternative/blob/master/projeto-final/analise-imagens-medicas-colab.ipynb)
+📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-capstone-alternative/blob/master/projeto-final/analise-imagens-medicas-colab.ipynb)
 
 > **Atenção: o grupo/aluno que não utilizar este template (ou alterar partes indevidas) será automaticamente reprovado.**
 

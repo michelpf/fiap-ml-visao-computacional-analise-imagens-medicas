@@ -83,7 +83,7 @@ O projeto será avaliado pelos seguintes itens abaixo. A nota final será uma co
 - Implementação de modelo transfer learning baseado na implementação de arquitetura de escolha do grupo (arquitetura adicional) (n5 _peso 2_)
 - Conclusões finais (n6 _peso 2,5_)
 
-Nota Final = 2 * n1 + 1,5 * n2 + 1,5 * n3 + 1,5 * n4 + 2 * n5 + 2.5 * n6
+Nota Final = 1 * n1 + 1,5 * n2 + 1,5 * n3 + 1,5 * n4 + 2 * n5 + 2.5 * n6
 
 ### Dúvidas
 
